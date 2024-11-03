@@ -65,7 +65,7 @@ export const About = () => {
 
 
 
-        <button><span><a href='https://drive.google.com/file/d/1Tl5Y-ezc_yk1mmQauwGLlZWA6FZPBSt0/view?usp=drivesdk' download="Chetan_resume.pdf">
+        <button><span><a href='https://drive.google.com/file/d/1Joga7Os9_E45bmzzBl4chsXbrgjf3h1e/view?usp=sharing' download="Chetan_resume.pdf">
           Download CV</a></span> </button>
 
       </div>
