@@ -80,7 +80,7 @@ export const Testimonial = () => {
                                     src={client3} alt="testimonial 3" />
                                 <div className="testimonial-text  ">
                                     <p className="text-sm md:text-base mb-2">
-                                        “I worked with Anurag to make my website. I am speechless by
+                                        “I worked with Chetan to make my website. I am speechless by
                                         looking at his work ethic and dedication. Working with him was
                                         the best decision I made.”
                                     </p>
